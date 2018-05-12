@@ -23,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Nodier
     - http://en.wikipedia.org/wiki/Charles_Nodier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29105#El-pintor-de-Salzburgo
 gutenberg_issued: '2009-06-12'
 gutenberg_type: Text
 identifiers:
