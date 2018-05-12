@@ -1,0 +1,41 @@
+_repo: El-pintor-de-Salzburgo_29105
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Orts-Ramos, Tomás
+    alias: Orts-Ramos, Tomas
+    birthdate: 1866
+    deathdate: 1939
+    gutenberg_agent_id: '33697'
+    url: http://www.gutenberg.org/2009/agents/33697
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Nodier
+    - http://en.wikipedia.org/wiki/Charles_Nodier
+description: ''
+gutenberg_issued: '2009-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29105'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French -- Translations into Spanish'
+- !lcsh 'French fiction -- Translations into Spanish'
+tableOfContents: De los tipos en literatura -- El pintor de Salzburgo -- Las meditaciones
+  del claustro -- Adela.
+title: El pintor de Salzburgo
+url: http://www.gutenberg.org/ebooks/29105
